@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+.form-control {
+    border: 1px solid #4a7fb4 !important;
+}
+.form-select {
+    border: 1px solid #4a7fb4 !important;
+}
